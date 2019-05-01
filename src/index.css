@@ -1,7 +1,8 @@
 * {
   box-sizing: border-box;
   font-family: sans-serif;
-  background-image: ".images/Transformers-Devastation-Poster2.jpg"
+  background-color : red;
+  /* background-image: url("./images/Transformers-Devastation-Poster2.jpg"); */
 }
 
 html, body, #root {

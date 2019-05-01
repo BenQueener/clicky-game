@@ -1,6 +1,7 @@
 .card {
-  background: #fff;
+  background: red;
   height: 150px;
+  margin: 20px;
   position: relative;
   width: 150px;
   overflow: hidden;

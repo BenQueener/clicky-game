@@ -2,21 +2,78 @@ import React, { Component } from "react";
 import Card from "./components/Card";
 import Wrapper from "./components/Wrapper";
 import Score from "./components/Score";
-import bots from "./cards.json";
+//import bots from "./cards.json";
 import "./App.css";
 
-// import bombshell from "./images/bombshell.PNG"
-// import bumblebee from "./images/bumblebee.PNG"
-// import devistator from "./images/devistator.PNG"
-// import grimlock from "./images/grimlock.PNG"
-// import kickback from "./images/kickback.PNG"
-// import megatron from "./images/megatron.PNG"
-// import Menasour from "./images/Menasour.PNG"
-// import optimus from "./images/optimus.PNG"
-// import sideswipe from "./images/sideswipe.PNG"
-// import soundwave from "./images/soundwave.PNG"
-// import starscream from "./images/starscream.PNG"
-// import wheeljack from "./images/wheeljack.PNG"
+import bombshell from "./images/bombshell.PNG"
+import bumblebee from "./images/bumblebee.PNG"
+import devistator from "./images/devistator.PNG"
+import grimlock from "./images/grimlock.PNG"
+import kickback from "./images/kickback.PNG"
+import megatron from "./images/megatron.PNG"
+import Menasour from "./images/Menasour.PNG"
+import optimus from "./images/optimus.PNG"
+import sideswipe from "./images/sideswipe.PNG"
+import soundwave from "./images/soundwave.PNG"
+import starscream from "./images/starscream.PNG"
+import wheeljack from "./images/wheeljack.PNG"
+
+const bots = [{
+  "id": 1,
+  "image": bombshell
+},
+{
+  "id": 2,
+  "image": bumblebee
+},
+{
+  "id": 3,
+  "image": devistator
+},
+{
+  "id": 4,
+  "image": grimlock
+},
+{
+  "id": 5,
+  "image": kickback
+},
+{
+  "id": 6,
+  "image": megatron
+
+},
+{
+  "id": 7,
+  "image": Menasour
+
+},
+{
+  "id": 8,
+  "image": optimus
+
+},
+{
+  "id": 9,
+  "image": sideswipe
+},
+{
+  "id": 10,
+  "image": soundwave
+
+},
+{
+  "id": 11,
+  "image": starscream
+
+},
+{
+  "id": 12,
+  "image": wheeljack
+}
+]
+
+
 
 class App extends Component {
   // Setting this.state.bots to the cards json array
