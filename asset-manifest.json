@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/clicky-game/static/css/main.b2104979.chunk.css",
-    "main.js": "/clicky-game/static/js/main.a54b981d.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.a54b981d.chunk.js.map",
+    "main.css": "/clicky-game/static/css/main.efa7b7f9.chunk.css",
+    "main.js": "/clicky-game/static/js/main.f5d1cedf.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.f5d1cedf.chunk.js.map",
     "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
     "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
-    "static/js/2.884c28c3.chunk.js": "/clicky-game/static/js/2.884c28c3.chunk.js",
-    "static/js/2.884c28c3.chunk.js.map": "/clicky-game/static/js/2.884c28c3.chunk.js.map",
+    "static/js/2.3a5cce55.chunk.js": "/clicky-game/static/js/2.3a5cce55.chunk.js",
+    "static/js/2.3a5cce55.chunk.js.map": "/clicky-game/static/js/2.3a5cce55.chunk.js.map",
     "index.html": "/clicky-game/index.html",
-    "precache-manifest.efcc8a6deedd00fc78bdac176d00f6bf.js": "/clicky-game/precache-manifest.efcc8a6deedd00fc78bdac176d00f6bf.js",
+    "precache-manifest.ba9e55351ad30ac37c622f4511c18ae0.js": "/clicky-game/precache-manifest.ba9e55351ad30ac37c622f4511c18ae0.js",
     "service-worker.js": "/clicky-game/service-worker.js",
-    "static/css/main.b2104979.chunk.css.map": "/clicky-game/static/css/main.b2104979.chunk.css.map"
+    "static/css/main.efa7b7f9.chunk.css.map": "/clicky-game/static/css/main.efa7b7f9.chunk.css.map",
+    "static/media/Menasour.PNG": "/clicky-game/static/media/Menasour.052f9f83.PNG",
+    "static/media/bombshell.PNG": "/clicky-game/static/media/bombshell.e625792c.PNG",
+    "static/media/bumblebee.PNG": "/clicky-game/static/media/bumblebee.9e8c23f5.PNG",
+    "static/media/devistator.PNG": "/clicky-game/static/media/devistator.3c5cb18c.PNG",
+    "static/media/grimlock.PNG": "/clicky-game/static/media/grimlock.9b7a3bd7.PNG",
+    "static/media/kickback.PNG": "/clicky-game/static/media/kickback.2aa14e54.PNG",
+    "static/media/megatron.PNG": "/clicky-game/static/media/megatron.16cc31f8.PNG",
+    "static/media/optimus.PNG": "/clicky-game/static/media/optimus.a39855dc.PNG",
+    "static/media/sideswipe.PNG": "/clicky-game/static/media/sideswipe.bb75dc85.PNG",
+    "static/media/soundwave.PNG": "/clicky-game/static/media/soundwave.01bfe62d.PNG",
+    "static/media/starscream.PNG": "/clicky-game/static/media/starscream.80d69cdc.PNG",
+    "static/media/wheeljack.PNG": "/clicky-game/static/media/wheeljack.9a303340.PNG"
   }
 }
